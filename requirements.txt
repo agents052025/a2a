@@ -1,0 +1,17 @@
+# Main dependencies
+google-generativeai
+python-dotenv
+click
+fastapi
+uvicorn[standard]
+crewai
+crewai_tools
+google-generativeai
+Pillow
+openai
+langchain
+toolz
+
+# For A2A protocol
+fastapi
+pydantic
